@@ -16,7 +16,7 @@ The analysis and manipulation of signals and images are crucial in various field
 
  ## Quantitative Results
  
-
+👉 Denoising 
 ![3 einstein_noised](https://github.com/user-attachments/assets/bc1af238-c341-489a-85fb-34010a391a86)
 
 
@@ -25,8 +25,9 @@ The analysis and manipulation of signals and images are crucial in various field
 
 ![4 subsisted_original_image](https://github.com/user-attachments/assets/eb53c05d-72e8-4a03-8212-9a77a3ab9b3d)
 
-
+👉 Detection
 ![5 detections real image Screenshot 2022-12-14 192902](https://github.com/user-attachments/assets/b7ad6974-f37d-4273-98ba-556d060a0958)
+
 
 ![6 detections Screenshot 2022-12-14 192902](https://github.com/user-attachments/assets/76b5d542-6076-4fd9-8f23-3499b9133835)
 
