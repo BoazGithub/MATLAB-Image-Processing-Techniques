@@ -1,0 +1,13 @@
+clc;
+clear all;
+img_cap=imread("einstein.jpg");
+imshow(img_cap);
+[rows, columns, numberOfColorChannels] = size(img_cap);
+row1=floor(rows/3-300);
+col1=floor(columns/3-300);
+minorimage =imcrop(img_cap, [col1, row1, 500, 500]);
+imshow(minorimage);
+Folder=('C:\WeChat Files\wxid_sj335u33aohi12\FileStorage\File\2022-12\Signal\Assignments\Assignment1\einstein.jpg');
+File=('einstein2.jpg');
+img=minorimage;
+imwrite(Img,fullfile(Folder,File));
