@@ -34,13 +34,24 @@ The analysis and manipulation of signals and images are crucial in various field
 
 ![figure3](https://github.com/user-attachments/assets/7f4dd6d3-5062-4dc5-9b8b-c65c9c11a7ba)
 
+
+👉 Subsistence for original image
+
+
+![4 subsisted_original_image](https://github.com/user-attachments/assets/baec95b0-0b69-4015-8108-ba5fb6c9f458)
+
+
+👉 Image recovery 1
+
+
 ![recover1](https://github.com/user-attachments/assets/c58babdc-3716-4338-9927-84defc249efe)
 
 
+
+👉 Image recovery 1
+
+
 ![recover2](https://github.com/user-attachments/assets/35208354-f62b-4310-b9c5-8cfd118a634d)
-
-
-![recover1_comparison](https://github.com/user-attachments/assets/4e1a1e6c-481c-4ff5-a3a6-1858ee02545d)
 
 
 ## Contact Information
