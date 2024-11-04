@@ -2,7 +2,7 @@
 ### Assignment background and descriptions
 The analysis and manipulation of signals and images are crucial in various fields, including engineering, computer vision, and medical imaging. One fundamental aspect of signal processing is understanding the properties of periodic functions and their applications in modeling real-world phenomena. Periodic functions are characterized by their repetition over specific intervals, making them essential in representing oscillatory behavior in systems, such as sound waves, light waves, and even certain types of biological signals. In image processing, sinusoidal functions are often employed to create patterns and textures, analyze frequency components, and synthesize images for various applications, including computer graphics and simulations. The concept of radial sinusoids is particularly relevant in polar coordinate systems, where signals are defined based on their distance from a central point and their angular orientation. This approach is beneficial in applications such as image segmentation, object detection, and pattern recognition, where radial symmetry plays a significant role.
 
-
+ 
 ## Requirements
 
 [![MATLAB R2023b+]([https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-376/](https://ch.mathworks.com/products/matlab.html)) 
